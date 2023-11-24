@@ -6,6 +6,8 @@ import Image5 from '../../assets/project5.jpg'
 import Image6 from '../../assets/project6.jpg'
 import Image7 from '../../assets/project7.jpg'
 import Image8 from '../../assets/project8.jpg'
+import Image9 from '../../assets/project9.png'
+import Image10 from '../../assets/project10.png'
 
 const data = [
     {
@@ -80,6 +82,26 @@ const data = [
         demo: 'https://karimgaber12.github.io/first-portfolio/',
         github: 'https://github.com/karimgaber12/first-portfolio'
     },
+    {
+        id: 9,
+        category: 'frontend',
+        image: Image9,
+        title: "YoutubeClone",
+        desc: "Features: Rapid Api, Searching, Responsive for all devices, VideoPlayer",
+        demo: 'https://youtubeclone-red.vercel.app/',
+        github: 'https://github.com/karimgaber12/youtubeclone'
+    },
+
+    {
+        id: 10,
+        category: 'frontend',
+        image: Image10,
+        title: "AdminDashboard",
+        desc: "Features: Contact, Charts, Tables, Responsive for all devices",
+        demo: 'https://dashboardreact-tau.vercel.app',
+        github: 'https://github.com/karimgaber12/dashboardreact'
+    },
+
 ]
 
 
