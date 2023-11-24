@@ -6,8 +6,8 @@ import Image5 from '../../assets/project5.jpg'
 import Image6 from '../../assets/project6.jpg'
 import Image7 from '../../assets/project7.jpg'
 import Image8 from '../../assets/project8.jpg'
-import Image9 from '../../assets/project9.png'
-import Image10 from '../../assets/project10.png'
+import Image9 from '../../assets/project9.PNG'
+import Image10 from '../../assets/project10.PNG'
 
 const data = [
     {
